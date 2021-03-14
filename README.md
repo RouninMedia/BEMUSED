@@ -1,5 +1,5 @@
 # BEMUSES
-**BEM**, **U**tilising **S**everal **E**xtra **S**uggestions (**BEMUSES**) is a slightly-tweaked version of BEM, incorporating one or two ideas from Daniel Tonon's **ABEM** and one original idea.
+***BEM**, **U**tilising **S**everal **E**xtra **S**uggestions* (**BEMUSES**) is a slightly-tweaked version of BEM, incorporating one or two ideas from Daniel Tonon's **ABEM** and one original idea.
 
 _____
 
