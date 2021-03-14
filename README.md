@@ -12,6 +12,8 @@ _____
 
 ## Ideas borrowed from ABEM and utilised in BEMUSES
 
+https://css-tricks.com/abem-useful-adaptation-bem/
+
 ____
 
 ## One more original idea utilised in BEMUSES
