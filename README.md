@@ -17,3 +17,5 @@ https://css-tricks.com/abem-useful-adaptation-bem/
 ____
 
 ## One more original idea utilised in BEMUSES
+
+Note: https://frontstuff.io/in-defense-of-utility-first-css (see: `/* Oops, looks like duplicate rules down there! */` )
