@@ -18,4 +18,7 @@ ____
 
 ## One more original idea utilised in Bemuses
 
-Note: https://frontstuff.io/in-defense-of-utility-first-css (see: `/* Oops, looks like duplicate rules down there! */` )
+Note:
+
+ 1. https://frontstuff.io/in-defense-of-utility-first-css (see: `/* Oops, looks like duplicate rules down there! */` )
+ 2. If you duplicate the `.card--ribbon` class, your code isn’t DRY anymore. 
