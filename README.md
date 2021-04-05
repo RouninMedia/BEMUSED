@@ -1,22 +1,22 @@
 # Bemuses
-***BEM**, **U**tilising **S**everal **E**xtra **S**uggestions* (**Bemuses**) is a slightly-tweaked version of **BEM**, incorporating:
+***BEM**, **U**sing **S**everal **E**xtensions* (**Bemuse**) is a slightly-tweaked version of **BEM**, incorporating:
 
  - one or two ideas from Daniel Tonon's **ABEM**
  - one more original idea
 
 _____
 
-## An Example of CSS written using Bemuses
+## An Example of CSS written using Bemuse
 
 _____
 
-## Ideas borrowed from ABEM and utilised in Bemuses
+## Ideas borrowed from ABEM and utilised in Bemuse
 
 https://css-tricks.com/abem-useful-adaptation-bem/
 
 ____
 
-## One more original idea utilised in Bemuses
+## One more original idea utilised in Bemuse
 
 Note: https://frontstuff.io/in-defense-of-utility-first-css
  
