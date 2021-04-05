@@ -1,5 +1,5 @@
-# Bemuses
-***BEM**, **U**sing **S**everal **E**xtensions* (**Bemuse**) is a slightly-tweaked version of **BEM**, incorporating:
+# Bemuse
+***BEM**, **u**sing **s**everal **e**xtensions* (**Bemuse**) is a slightly-tweaked version of **BEM**, incorporating:
 
  - one or two ideas from Daniel Tonon's **ABEM**
  - one more original idea
